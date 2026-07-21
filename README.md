@@ -1,1 +1,2 @@
-# FUTURE_DS_03
+## About This Repository
+This repository is part of my **Data Science & Analytics Internship at Future Interns**, where I completed hands-on analytics projects based on real-world business scenarios. Each project demonstrates the end-to-end analytics workflow, including data cleaning, exploratory data analysis (EDA), business insight generation, interactive Power BI dashboard development, and detailed project documentation.
