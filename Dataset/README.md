@@ -1,12 +1,9 @@
 # 📂 Dataset
 
 ## Overview
-
 This folder contains the datasets used for **Task 3 – Marketing Funnel & Conversion Performance Analysis** as part of the **Future Interns Data Science & Analytics Internship**.
 
 The dataset is based on a real-world **Bank Marketing Campaign**, where the objective is to analyze customer responses to direct marketing campaigns and identify the factors that influence conversion.
-
----
 
 ## Files Included
 
@@ -20,8 +17,6 @@ The dataset is based on a real-world **Bank Marketing Campaign**, where the obje
 - Prepared after data inspection and preprocessing in Jupyter Notebook.
 - Used for building the interactive Power BI dashboard.
 
----
-
 ## Dataset Information
 
 | Attribute | Value |
@@ -31,10 +26,7 @@ The dataset is based on a real-world **Bank Marketing Campaign**, where the obje
 | Domain | Banking & Marketing |
 | Target Variable | `y` (Subscription Status) |
 
----
-
 ## Key Features
-
 The dataset includes customer demographic, financial, and campaign-related information such as:
 
 - Age
@@ -50,30 +42,11 @@ The dataset includes customer demographic, financial, and campaign-related infor
 - Previous Campaign Outcome
 - Subscription Status (`y`)
 
----
-
 ## Objective
 
 The dataset is used to:
-
 - Analyze customer conversion patterns.
 - Evaluate marketing campaign performance.
 - Identify factors influencing customer subscriptions.
 - Generate business insights through exploratory data analysis.
 - Build an interactive Power BI dashboard for decision-making.
-
----
-
-## Source
-
-**UCI Machine Learning Repository**
-
-Bank Marketing Dataset
-
-https://archive.ics.uci.edu/ml/datasets/bank+marketing
-
----
-
-## Author
-
-**Shreya G**
