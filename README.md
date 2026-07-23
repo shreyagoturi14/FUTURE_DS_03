@@ -177,5 +177,3 @@ This repository is part of my **Data Science & Analytics Internship at Future In
 
 **Shreya G**
 Aspiring Data Analyst | Data Science Enthusiast | Power BI & Python Learner
-
-⭐ If you found this project helpful, consider giving the repository a **star**.
