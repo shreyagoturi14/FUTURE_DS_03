@@ -172,8 +172,3 @@ This project strengthened practical knowledge in:
 
 ##  About This Repository
 This repository is part of my **Data Science & Analytics Internship at Future Interns**, where I completed real-world analytics tasks involving data preprocessing, exploratory data analysis, business intelligence, and dashboard development using Python and Power BI.
-
-## ✍️ Author
-
-**Shreya G**
-Aspiring Data Analyst | Data Science Enthusiast | Power BI & Python Learner
