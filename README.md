@@ -2,7 +2,7 @@
 This repository is part of my **Data Science & Analytics Internship at Future Interns**, where I completed hands-on analytics projects based on real-world business scenarios. Each project demonstrates the end-to-end analytics workflow, including data cleaning, exploratory data analysis (EDA), business insight generation, interactive Power BI dashboard development, and detailed project documentation.
 
 
-# 📊 Marketing Campaign & Conversion Performance Analysis
+# Marketing Campaign & Conversion Performance Analysis
 
 > **Future Interns – Data Science & Analytics Internship | Task 3**
 
@@ -57,7 +57,7 @@ Marketing-Campaign-Conversion-Performance-Analysis/
 - Microsoft Power BI
 - DAX (Data Analysis Expressions)
 
-## 📈 Project Workflow
+##  Project Workflow
 
 ```text
 Raw Dataset
@@ -106,11 +106,11 @@ The notebook includes detailed analysis of:
 ## Dashboard Features
 
 ### KPI Cards
-- 👥 Customers Contacted
-- ✅ Successful Subscriptions
-- 📈 Conversion Rate
-- 💰 Average Customer Balance
-- 📞 Average Campaign Contacts
+-  Customers Contacted
+-  Successful Subscriptions
+-  Conversion Rate
+-  Average Customer Balance
+-  Average Campaign Contacts
 
 ### Interactive Visualizations
 - Subscription Distribution
@@ -133,7 +133,6 @@ The notebook includes detailed analysis of:
 - Customers with **previous successful campaign outcomes** demonstrated higher conversion potential.
 
 ##  Project Deliverables
-
 - ✔ Cleaned Dataset
 - ✔ Jupyter Notebook
 - ✔ Power BI Dashboard
@@ -155,7 +154,6 @@ The notebook includes detailed analysis of:
 - Business Insight Generation
 
 ##  Learning Outcomes
-
 This project strengthened practical knowledge in:
 - Marketing Analytics
 - Customer Conversion Analysis
