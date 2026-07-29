@@ -7,12 +7,12 @@ The dataset is based on a real-world **Bank Marketing Campaign**, where the obje
 
 ## Files Included
 
-### 📄 bank-full.csv
+###  bank-full.csv
 - Original dataset obtained from the UCI Machine Learning Repository.
 - Contains raw customer information collected during bank marketing campaigns.
 - Used as the primary source for data cleaning and exploratory data analysis.
 
-### 📄 bank_marketing_cleaned.csv
+###  bank_marketing_cleaned.csv
 - Cleaned version of the original dataset.
 - Prepared after data inspection and preprocessing in Jupyter Notebook.
 - Used for building the interactive Power BI dashboard.
@@ -28,7 +28,6 @@ The dataset is based on a real-world **Bank Marketing Campaign**, where the obje
 
 ## Key Features
 The dataset includes customer demographic, financial, and campaign-related information such as:
-
 - Age
 - Job
 - Marital Status
