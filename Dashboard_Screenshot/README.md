@@ -41,10 +41,9 @@ The dashboard automatically recalculates:
 - Conversion Rate
 - Average Balance
 - Campaign Metrics
-
 along with all visualizations, enabling detailed customer segmentation and interactive business analysis.
 
-### 📈 Multiple Filter Analysis
+###  Multiple Filter Analysis
 This screenshot showcases advanced dashboard interactivity by applying multiple filters simultaneously.
 
 It highlights how Power BI enables users to:
@@ -66,7 +65,6 @@ It highlights how Power BI enables users to:
 - Responsive Power BI Dashboard
 
 ## Purpose
-
 The dashboard was designed to help stakeholders:
 - Monitor marketing campaign performance
 - Evaluate customer conversion rates
@@ -75,9 +73,7 @@ The dashboard was designed to help stakeholders:
 - Support data-driven marketing decisions
 
 ## Tools Used
-
 - Power BI Desktop
 - DAX Measures
 - Interactive Slicers
 - Data Visualization Techniques
-
